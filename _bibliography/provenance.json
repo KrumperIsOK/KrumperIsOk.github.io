@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "citation_key": "kuang2026composingtaskspecificagentharnesses",
+      "file": "_bibliography/2609.38912.bib",
+      "source_url": "https://arxiv.org/bibtex/2609.38912",
+      "source_organization": "arXiv",
+      "retrieval_date": "2026-10-08",
+      "sha256": "5d2946fcb7e92e3e39df4b5b914ecd1cbfdbd8bcece0e2d3625a7ce064eededf"
+    },
+    {
+      "citation_key": "kuang2026babelarenalargescalemultilingualbenchmark",
+      "file": "_bibliography/2609.23490.bib",
+      "source_url": "https://arxiv.org/bibtex/2609.23490",
+      "source_organization": "arXiv",
+      "retrieval_date": "2026-10-08",
+      "sha256": "290703c00915d7c051b1c8863037be45a513b5beed49325a5f1887795a12b2d7"
+    },
+    {
+      "citation_key": "kuang2026kvprmefficientprocessreward",
+      "file": "_bibliography/2607.09153.bib",
+      "source_url": "https://arxiv.org/bibtex/2607.09153",
+      "source_organization": "arXiv",
+      "retrieval_date": "2026-10-08",
+      "sha256": "f035d5944f7e8fb42b828b6c23a720692111cceaa4505beda98fa8dc533a0992"
+    }
+  ],
+  "figures": [
+    {
+      "file": "images/stitch.png",
+      "source_url": "https://arxiv.org/html/2609.38912v1/ComposeHarness_overview_v2.png",
+      "source_organization": "arXiv",
+      "retrieval_date": "2026-10-08",
+      "description": "Figure 1; original downloaded image, unchanged.",
+      "license": "CC BY 4.0",
+      "sha256": "c7419d7732c0ae14fe2c3414ef6856f2a5bfecd6def98e36c66cbfafbaf99f2a"
+    },
+    {
+      "file": "images/babelarena.png",
+      "source_url": "https://arxiv.org/pdf/2609.23490",
+      "source_organization": "arXiv",
+      "retrieval_date": "2026-10-08",
+      "description": "Figure 1, rendered from page 4 at 216 dpi; crop x=372, y=228, width=1095, height=582 pixels excludes surrounding text.",
+      "license": "CC BY 4.0",
+      "sha256": "621d092f9f64fa82e05804a15ee71e95d9515c4552a9ae1e22c28d0125ae32ac"
+    }
+  ]
+}
