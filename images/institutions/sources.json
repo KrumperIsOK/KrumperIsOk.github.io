@@ -1,0 +1,37 @@
+[
+  {
+    "file": "illinois.ico",
+    "source_organization": "University of Illinois Urbana-Champaign",
+    "source_url": "https://cdn.brand.illinois.edu/favicon.ico",
+    "retrieval_date": "2026-10-18",
+    "sha256": "f3297b1dd29a6ac13670b99c832fd77c93ee8af1da48e0c109c1c5763a72bd41"
+  },
+  {
+    "file": "whu.png",
+    "source_organization": "Hanxun Yu personal homepage",
+    "source_url": "https://hanxunyu.github.io/images/whu.png",
+    "retrieval_date": "2026-10-18",
+    "sha256": "806775a7f6fe676a139c91c5aece437c60bd26f88d472705d0a011a1649e7008"
+  },
+  {
+    "file": "qwen.png",
+    "source_organization": "Qwen",
+    "source_url": "https://qwenlm.github.io/favicon.png",
+    "retrieval_date": "2026-10-18",
+    "sha256": "a98b91d365fba5f08370d8d8755aa60692be0e6c64124cc33bb282c9fb2432cb"
+  },
+  {
+    "file": "iflytek.svg",
+    "source_organization": "iFLYTEK",
+    "source_url": "https://www.iflytek.com/en/Public/Uploads/uploadfile/images/20230812/comlogo1.svg",
+    "retrieval_date": "2026-10-18",
+    "sha256": "ae825a3ddb3e7bed8c4a1691c6676cca9d003d673ba5089b246178c9bd43727f"
+  },
+  {
+    "file": "zju.png",
+    "source_organization": "Hanxun Yu personal homepage",
+    "source_url": "https://hanxunyu.github.io/images/zju.png",
+    "retrieval_date": "2026-10-18",
+    "sha256": "e0d8b82340eb0c99b7857d599d3c2a6073282f7503277192c0691b4d1502f46c"
+  }
+]

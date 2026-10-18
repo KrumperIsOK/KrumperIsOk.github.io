@@ -18,6 +18,7 @@ Then visit `http://127.0.0.1:4173`.
 - Add news items to the `news-list` in `index.html`, newest first. Use confirmed milestone or announcement months in both the visible date and `<time datetime="YYYY-MM">`, or just `YYYY` when the month is unknown. Keep news focused on 2026 onward, conference publications, and career milestones; omit preprint announcements. Keep all updates in the same scrollable news list. Conference publication updates use the conference month, not an inferred acceptance date.
 - Adjust colors and typography using the variables at the top of `stylesheet.css`.
 - Keep publication figures in `images/`; the layout displays them without cropping except `Rethinking.png`, which uses a CSS crop to show subfigure (a), including its caption, while preserving the source image.
+- Education, internships, and honors follow the résumé’s documented details, with award years confirmed by Peng; omit unconfirmed start dates. Institution logos and their source log are in `images/institutions/`.
 - The profile photo is `images/peng.jpeg`.
 - Keep the page title, description, Open Graph, and Twitter metadata in `index.html` consistent with the research introduction. Sharing previews use the profile photo. The blue PK favicon lives in `images/favicon/` as SVG, a 16/32/48px ICO fallback, and a 180px Apple touch icon.
 - `Research_Reseme*.pdf` files are private reference material. Keep them ignored, unlinked, and out of commits and deployments. Do not disclose submission venues on the public page.
