@@ -79,6 +79,9 @@ p { margin: 0 0 .5em; }
 .authors b { color: #2a4365; }
 .publication-meta { color: var(--muted); font-size: .9em; }
 .publication-meta strong { color: #c53030; }
+.publication-links { display: flex; flex-wrap: wrap; gap: .4em; margin: .5em 0 0; font-size: .85em; }
+.publication-button { display: inline-flex; align-items: center; justify-content: center; min-height: 30px; padding: .15em .7em; border: 1px solid #bfd3e6; border-radius: 4px; color: #2c5282; background: #f7fafc; line-height: 1.5; }
+.publication-button:hover { color: #1a365d; background: #ebf4ff; border-color: var(--link); }
 .site-footer { display: flex; justify-content: space-between; gap: 1em; max-width: 925px; margin: 2em auto 0; padding: 1.5em; border-top: 1px solid var(--line); font-size: .85em; color: var(--muted); }
 .site-footer p { margin: 0; }
 
